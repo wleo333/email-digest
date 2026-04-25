@@ -1,29 +1,5 @@
 [
   {
-    "file": "2026-04-25-1550.html",
-    "label": "Apr 25, 2026 15:50 UTC",
-    "period": "Apr 25, 2026 (last 24 hours \u2014 first run)",
-    "emails": 1
-  },
-  {
-    "file": "2026-04-25-1648.html",
-    "label": "Apr 25, 2026 16:48 UTC",
-    "period": "Apr 25, 2026",
-    "emails": 5
-  },
-  {
-    "file": "2026-04-25-1700.html",
-    "label": "Apr 25, 2026 17:00 UTC",
-    "period": "Apr 25, 2026 (no new emails since last run at 16:48 UTC)",
-    "emails": 5
-  },
-  {
-    "file": "2026-04-25-1900.html",
-    "label": "Apr 25, 2026 19:00 UTC",
-    "period": "Apr 25, 2026 (since 5:00 PM UTC)",
-    "emails": 2
-  },
-  {
     "file": "2026-04-25-1523.html",
     "label": "Apr 25, 2026 15:23 ET",
     "period": "Apr 25, 2026",
