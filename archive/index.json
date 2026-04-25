@@ -16,5 +16,11 @@
     "label": "Apr 25, 2026 17:00 UTC",
     "period": "Apr 25, 2026 (no new emails since last run at 16:48 UTC)",
     "emails": 5
+  },
+  {
+    "file": "2026-04-25-1900.html",
+    "label": "Apr 25, 2026 19:00 UTC",
+    "period": "Apr 25, 2026 (since 5:00 PM UTC)",
+    "emails": 2
   }
 ]
