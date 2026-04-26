@@ -16,5 +16,11 @@
     "label": "Apr 25, 2026 15:50 ET",
     "period": "Apr 25, 2026",
     "emails": 5
+  },
+  {
+    "file": "2026-04-26-0907.html",
+    "label": "Apr 26, 2026 09:07 ET",
+    "period": "Apr 25\u201326, 2026",
+    "emails": 10
   }
 ]
